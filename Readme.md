@@ -13,7 +13,7 @@
    2. make a text file in the folder (testing-hello) in your computer name hello.txt and add some text.
    3. Initialise the a git project in the testing-folder -> git init
    4. Add all the files to git -> git add .
-   5. Commit all the code to git -> git commit -m "Your message".
+   5. Commit all the code to git -> git commit -m "Your message"
    6. -m stands for message
    7. Make the main branch -> git branch -M main (-M sets the main branch as default), (Only done for the first time, after the first time you have to skip this.)
    8. Add the remote to link your local repo to github -> git remote add origin [given by github] (Only done for the first time, after the first time you have to skip this.)
