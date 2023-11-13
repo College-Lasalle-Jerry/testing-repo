@@ -15,7 +15,7 @@
    - Add all the files to git -> git add .
    - Commit all the code to git -> git commit -m "Your message".
    - -m stands for message
-   - Make the main branch -> git branch -M main (-M sets the main branch as default)
+   - Make the main branch -> git branch -M main (-M sets the main branch as default), (Only done for the first time, after the first time you have to skip this.)
    - Add the remote to link your local repo to github -> git remote add origin git@github.com:College-Lasalle-Jerry/testing-repo.git (Only done for the first time, after the first time you have to skip this.)
    - Push the code to github -> git push -u origin main
 
